@@ -1,5 +1,3 @@
-Certainly! Here's the content as a single block:
-
 ```markdown
 # PoissonMixtureClustering
 
@@ -18,10 +16,10 @@ devtools::install_github("username/PoissonMixtureClustering")
 ```R
 # Load the package
 library(PoissonMixtureClustering)
-
-# Example usage
-# Your code here
 ```
+Example usage
+[Example usage](Example_Usage)
+
 
 ## Features
 
@@ -32,7 +30,7 @@ library(PoissonMixtureClustering)
 ## Authors
 
 - Sarra SLIMI
-- Badia ALFATHI
+- [Badia ALFATHI](https://www.linkedin.com/in/mbmabadie/)
 
 ## Dependencies
 
@@ -42,13 +40,3 @@ library(PoissonMixtureClustering)
 
 Contributions to improve **PoissonMixtureClustering** are welcome. You can contribute by forking the repository and creating pull requests with your changes.
 
-## License
-
-This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-We acknowledge the support and contributions of the R community.
-```
-
-You can copy and paste this block into your README.md file.
